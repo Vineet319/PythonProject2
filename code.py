@@ -1,1 +1,2 @@
-print("Hyderabad")c
+print("Hyderabad")
+print("Banglore")
